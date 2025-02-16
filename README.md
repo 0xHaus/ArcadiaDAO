@@ -14,7 +14,6 @@ ArcadiaDAO is an on-chain governance platform that demonstrates:
 ArcadiaDAO/
 
  ├── contracts/
- 
  │ ├── ArcadiaToken.sol
  
  │ ├── ArcadiaGovernor.sol
