@@ -12,19 +12,33 @@ ArcadiaDAO is an on-chain governance platform that demonstrates:
 ## Project Structure
 
 ArcadiaDAO/
+
  ├── contracts/
+ 
  │ ├── ArcadiaToken.sol
+ 
  │ ├── ArcadiaGovernor.sol
+ 
  │ ├── ArcadiaTimelock.sol
+
  │ └── ... ├── scripts/
+ 
  │ └── deploy.js
+ 
  ├── test/
+ 
  │ ├── ArcadiaToken.test.js
+ 
  │ ├── ArcadiaGovernor.test.js
+ 
  │ └── ... ├── frontend/
+ 
  │ ├── pages/
+ 
  │ │ ├── index.js
+ 
  │ │ └── create.js
+ 
  │ ├── components/
  │ ├── utils/
  │ └── package.json
